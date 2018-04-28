@@ -1,0 +1,26 @@
+body {
+	background-color: grey;
+	font-family: Castellar;
+}
+.container{
+	box-sizing: border-box;
+	font-size: 1.2em;
+	width: 80%;
+	max-width: 600px;
+	margin: 0 auto;
+	margin-top: 50px;
+	border: 2px solid black;
+	text-align: center;
+	background: white;
+}
+
+h1 {
+	text-align: center;
+}
+
+.btn {
+	font-family: Castellar;
+	font-size: 0.7em;
+	font-weight: bold;
+	background: lightred;
+}
