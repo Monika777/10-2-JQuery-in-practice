@@ -22,5 +22,9 @@ h1 {
 	font-family: Castellar;
 	font-size: 0.7em;
 	font-weight: bold;
-	background: lightred;
+	background: ;
+}
+
+span {
+	margin-right: 10px;
 }
